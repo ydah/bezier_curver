@@ -1,4 +1,4 @@
-# BezierCurver
+# BezierCurver [![Gem Version](https://badge.fury.io/rb/bezier_curver.svg)](https://badge.fury.io/rb/bezier_curver) [![Test](https://github.com/ydah/bezier_curver/actions/workflows/test.yml/badge.svg)](https://github.com/ydah/bezier_curver/actions/workflows/test.yml)
 
 Interactive Bezier curve drawing tool using Ruby2D.
 
